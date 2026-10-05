@@ -23,7 +23,7 @@
 
 **Mobil ve Backend**
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,firebase,postgres,mysql" alt="Mobil ve backend teknolojileri" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,firebase,postgres,mysql" alt="Mobil ve backend teknolojileri" />
 
 **Yapay Zekâ**
 
@@ -39,10 +39,12 @@
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| [Bilirubin Tahmini](https://github.com/mehmetyavuzy/bilirubin-tahmini) | Göz görüntüsünden sarılık tespiti yapan derin öğrenme modeli | Python, TensorFlow, VGG16 |
+| **Pangea YKS Koçluk Platformu** · özel repo | Yapay zekâ destekli öğrenci analiz sistemi; premium abonelik ve ödeme altyapısı olan, yayında bir mobil uygulama | React Native, Node.js, Firebase, RevenueCat |
+| **Anti-Inflammatory Peptide Prediction** · özel repo | Teknofest 2025 finalisti (Türkiye 17.'si). Anti-inflamatuar peptit sınıflandırma; SVM, Random Forest, CNN ve BiLSTM modelleri | Python, TensorFlow, Scikit-Learn |
+| **KORKUT** · özel repo | Dosyaları çalıştırmadan önce analiz eden masaüstü güvenlik ve analiz platformu | C#, .NET 8, WPF |
+| **MaunMobile** · özel repo | Üniversite mobil uygulaması; frontend, backend ve veritabanı geliştirme | React Native, Node.js, PostgreSQL, MySQL |
+| [Bilirubin Tahmini](https://github.com/mehmetyavuzy/bilirubin-tahmini) | Transfer learning ile göz görüntüsünden sarılık tespiti | Python, TensorFlow, VGG16 |
 | [Uykulu Algılama](https://github.com/mehmetyavuzy/uykulu-alg-lama) | Gerçek zamanlı yüz ve göz takibiyle uyku hali tespiti | Python, MediaPipe, OpenCV |
-| [İşaret Dili](https://github.com/mehmetyavuzy/isaret-dili) | İşaret dilini yazıya çeviren görüntü işleme sistemi | Python, MediaPipe, OpenCV |
-| [Market App](https://github.com/mehmetyavuzy/marketapp) | Mobil uygulama, veri toplama, veritabanı ve API'yi birleştiren uçtan uca proje | React Native, Python, MySQL |
 
 ## GitHub İstatistikleri
 
